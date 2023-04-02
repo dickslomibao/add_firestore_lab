@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701379183602",
+    "project_id": "labwork-a68a7",
+    "storage_bucket": "labwork-a68a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701379183602:android:1b0ba44c9061497285a16b",
+        "android_client_info": {
+          "package_name": "com.example.labwork_lomibao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701379183602-rov7372lbnck0eqruif2duh8hr0mncn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6GQoF9K1C-OG19YrFnJjGkSzmpbNX8k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701379183602-rov7372lbnck0eqruif2duh8hr0mncn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
